@@ -1,0 +1,19 @@
+name,cyber_security,data_science,computing_foundation,digital_literacy,software_foundation,average,grade,min_score,max_score,score_range,pass_fail
+Ali,85,90,78,70,90,82.6,A,70,90,20,"Congratulations, you passed!"
+Emily,45,60,72,60,70,61.4,C,45,72,27,"Congratulations, you passed!"
+Mehmet,95,88,92,78,92,89.0,A,78,95,17,"Congratulations, you passed!"
+Mike,70,75,80,73,49,69.4,C,49,80,31,"Congratulations, you passed!"
+Can,30,40,35,67,85,51.4,D,30,85,55,"Congratulations, you passed!"
+David,30,30,25,40,40,33.0,F,25,40,15,Fail
+Husein,95,88,92,78,92,89.0,A,78,95,17,"Congratulations, you passed!"
+Helen,70,75,80,73,49,69.4,C,49,80,31,"Congratulations, you passed!"
+Omar,30,40,35,67,85,51.4,D,30,85,55,"Congratulations, you passed!"
+Usman,20,45,60,25,20,34.0,F,20,60,40,Fail
+Michael,30,40,35,67,85,51.4,D,30,85,55,"Congratulations, you passed!"
+William,30,30,25,40,40,33.0,F,25,40,15,Fail
+Ahmed,95,88,92,78,92,89.0,A,78,95,17,"Congratulations, you passed!"
+Jane,25,35,58,29,39,37.2,F,25,58,33,Fail
+Ayse,85,90,78,70,90,82.6,A,70,90,20,"Congratulations, you passed!"
+Zeynep,45,60,72,60,70,61.4,C,45,72,27,"Congratulations, you passed!"
+John,19,27,65,42,80,46.6,E,19,80,61,"Congratulations, you passed!"
+Hasan,95,88,92,78,92,89.0,A,78,95,17,"Congratulations, you passed!"
