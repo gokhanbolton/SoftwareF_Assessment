@@ -56,7 +56,7 @@ def calculate_average(student):
     try:
         total = (student['cyber_security'] + student['data_science'] + student['computing_foundation'] + 
                  student['digital_literacy'] + student['software_foundation'])
-        average = total / 5  # There are 5 subjects
+        average = total / (len(student)-1)  # Average of the lessons
         return round(average, 2)  # Round the average to 2 decimal places
     except KeyError as e:
         print(f"Missing data: {e}")
